@@ -698,3 +698,17 @@ stringrequired
 ​
 order_id
 string | nulldefault:""
+
+les pays et les operateurs sue lygos prend en charge
+benin mtn et moov
+cameroun Mtn
+Burkina moov
+congo MTN
+RDC orange money, vodacom, airtel
+cote d'hivoir mtn, orange money, wave
+gabon airtel
+kenya Mpesa
+Rwanda MTN, airtel
+senegal free, orange money, wave
+Tanzani airtel, tigo, halotel
+zambi aitel, mtn
